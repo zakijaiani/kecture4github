@@ -1,2 +1,2 @@
-# kecture4github
+# lecture4github
 this is my first repositor
